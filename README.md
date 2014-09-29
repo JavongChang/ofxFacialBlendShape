@@ -11,7 +11,6 @@ Data
 --------
 1. [3DModel](http://people.csail.mit.edu/sumner/research/deftransfer/data.html "Mesh Data from 
 Deformation Transfer for Triangle Meshes")
-    * ![image](http://people.csail.mit.edu/sumner/research/deftransfer/stamps/head-poses.jpg “top")
  
 License
 ----------
