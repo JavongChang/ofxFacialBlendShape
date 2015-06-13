@@ -8,6 +8,8 @@ Dependency
 1. ofxGui
 2. [ofxObjLoader](https://github.com/satoruhiga/ofxObjLoader "ofxObjLoader")
  
+![alt text](https://github.com/iwanao731/ofxFacialBlendShape/blob/master/picture.png "ofxFacialBlendShape")
+
 Data
 --------
 1. [3DModel(Head expressions)](http://people.csail.mit.edu/sumner/research/deftransfer/data.html "Mesh Data from 
