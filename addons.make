@@ -1,4 +1,0 @@
-ofxGui
-ofxXmlSettings
-ofxAnimatable
-ofxObjLoader
