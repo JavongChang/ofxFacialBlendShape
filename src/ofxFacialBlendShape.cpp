@@ -2,16 +2,8 @@
 //  ofxFacialBlendShape.cpp
 //  BlendShape
 //
-<<<<<<< HEAD
-//  Created by iwanao731 on 2014/10/08.
-=======
-//  Created by NAOYAIWAMOTO on 2014/10/08.
->>>>>>> b8835604f7f8bed2d67345f23407324f0fa6a62c
-//
-//
 
 #include "ofxFacialBlendShape.h"
-<<<<<<< HEAD
 
 void ofxFacialBlendShape::init(){
     
@@ -59,6 +51,3 @@ void ofxFacialBlendShape::addModel(ofMesh mesh)
 {
     _model.push_back(mesh);
 }
-
-=======
->>>>>>> b8835604f7f8bed2d67345f23407324f0fa6a62c
