@@ -1,11 +1,12 @@
-BlendShape
+ofxFacialBlendShape
 ======================
-BlendShape sample for 3D model
+This addon enable to generate facial animation using 3D facial model
  
 Dependency
 --------
-### addon
-1. [ofxObjLoader](https://github.com/satoruhiga/ofxObjLoader "ofxObjLoader")
+### example
+1. ofxGui
+2. [ofxObjLoader](https://github.com/satoruhiga/ofxObjLoader "ofxObjLoader")
  
 Data
 --------
@@ -14,6 +15,6 @@ Deformation Transfer for Triangle Meshes")
  
 License
 ----------
-Copyright &copy; 2014 euclid
+Copyright &copy; 2015 euclid
 Distributed under the [MIT License][mit].
 [MIT]: http://www.opensource.org/licenses/mit-license.php
